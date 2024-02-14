@@ -19,20 +19,6 @@ bun dev
 Here's the link for the same: https://video-player-rust-mu.vercel.app/
 
 ## Brief Overview of Project:
-Folder Structure:
-
-├── components/
-│   ├── VideoPlayer.js
-│   └── Playlist.js
-├── public/
-│   └── media.json
-├── pages/
-│   └── index.js
-├── styles/
-│   └── globals.css
-├── next.config.js
-└── package.json
-
 Project Overview:
 The project aims to create a video player application using Next.js, React, and Tailwind CSS. The application will feature:
 
